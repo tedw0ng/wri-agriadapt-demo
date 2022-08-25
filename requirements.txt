@@ -6,6 +6,6 @@ pystac_client
 numpy
 pandas
 folium
-ipywidgets
+ipywidgets==7.6.5
 ipyleaflet
-voila
+voila==0.3.5
