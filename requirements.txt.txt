@@ -1,0 +1,12 @@
+planetary_computer
+earthengine-api
+xarray
+fsspec
+pystac_client
+numpy
+pandas
+datetime
+calendar
+folium
+ipywidgets
+ipyleaflet
