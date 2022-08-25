@@ -8,3 +8,4 @@ pandas
 folium
 ipywidgets
 ipyleaflet
+voila
