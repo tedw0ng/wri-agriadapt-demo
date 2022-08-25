@@ -4,6 +4,9 @@ numpy
 scipy
 netCDF4
 h5netcdf
+pydap
+zarr
+rasterio
 xarray
 fsspec
 pystac_client
