@@ -1,9 +1,12 @@
 planetary_computer
 earthengine-api
+numpy
+scipy
+netCDF4
+h5netcdf
 xarray
 fsspec
 pystac_client
-numpy
 pandas
 folium
 ipywidgets==7.6.5
