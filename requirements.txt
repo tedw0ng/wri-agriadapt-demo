@@ -5,8 +5,6 @@ fsspec
 pystac_client
 numpy
 pandas
-datetime
-calendar
 folium
 ipywidgets
 ipyleaflet
