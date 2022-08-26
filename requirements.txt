@@ -1,4 +1,4 @@
-planetary_computer
+pystac-client
 earthengine-api
 numpy
 scipy
