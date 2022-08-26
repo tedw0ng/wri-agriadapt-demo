@@ -5,7 +5,8 @@ numpy
 scipy
 netCDF4
 h5netcdf
-pydap
+bottleneck
+cyordereddict
 zarr
 rasterio
 xarray
