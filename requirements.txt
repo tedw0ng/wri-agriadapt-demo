@@ -16,3 +16,4 @@ folium
 ipywidgets==7.6.5
 ipyleaflet
 voila==0.3.5
+shapely
