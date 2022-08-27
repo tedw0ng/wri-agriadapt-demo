@@ -55,7 +55,6 @@ cfgrib
 cftime
 cgen
 charset-normalizer
-ciso
 click
 click-plugins
 cligj
