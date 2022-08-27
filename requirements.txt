@@ -216,7 +216,6 @@ munch
 munkres
 mypy-extensions
 natsort
-nb-conda-kernels
 nbclassic
 nbclient
 nbconvert
