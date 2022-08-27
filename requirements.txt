@@ -54,13 +54,10 @@ cfgrib==0.9.10.1
 cftime==1.6.0
 cgen==2020.1
 charset-normalizer==2.0.12
-ciso==0.1.0
 click==8.0.4
 click-plugins==1.1.1
 cligj==0.7.2
 cloudpickle==2.0.0
-cmip6-preprocessing==0.0.0
-cmocean==2.0
 colorama==0.4.3
 colorcet==3.0.0
 colorspacious==1.1.2
@@ -95,6 +92,7 @@ docopt==0.6.2
 docrep==0.3.2
 docutils==0.15.2
 donfig==0.7.0
+earthengin-api
 eccodes==1.4.0
 elementpath==2.5.1
 entrypoints==0.4
@@ -298,10 +296,6 @@ pyOpenSSL==22.0.0
 pyorbital==1.7.1
 pyparsing==3.0.8
 pyproj==3.3.1
-PyQt5==5.12.3
-PyQt5-sip==4.19.18
-PyQtChart==5.12
-PyQtWebEngine==5.12.1
 pyresample==1.23.0
 pyrsistent==0.18.1
 pyshp==2.2.0
