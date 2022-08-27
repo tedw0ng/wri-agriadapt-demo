@@ -107,7 +107,6 @@ gcsfs
 gdown
 geocube
 geogif
-geographiclib
 geojson
 geopandas
 geopy
