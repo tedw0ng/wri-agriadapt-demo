@@ -409,7 +409,6 @@ xclim
 xesmf
 xgcm
 xhistogram
-xlayers
 xmitgcm
 xmlschema
 xpublish
