@@ -16,7 +16,6 @@ argon2-cffi-bindings
 asciitree
 asgiref
 asn1crypto
-astropy
 asttokens
 async-generator
 async-timeout
@@ -31,15 +30,11 @@ azure-storage-blob
 Babel
 backcall
 backports.functools-lru-cache
-beautifulsoup4
 black
 bleach
 blinker
 blosc
-bokeh
 boltons
-boto3
-botocore
 Bottleneck
 bqplot
 branca
@@ -61,7 +56,6 @@ click-plugins
 cligj
 cloudpickle
 cmip6-preprocessing
-cmocean
 colorama
 colorcet
 colorspacious
@@ -73,14 +67,6 @@ croniter
 cryptography
 cycler
 cytoolz
-dask
-dask-gateway
-dask-geopandas
-dask-glm
-dask-image
-dask-kubernetes
-dask-labextension
-dask-ml
 dataclasses
 datacube
 datashader
@@ -97,7 +83,6 @@ docrep
 docutils
 donfig
 earthengine-api
-eccodes
 elementpath
 entrypoints
 eofs
@@ -226,7 +211,6 @@ nbstripout
 nc-time-axis
 nest-asyncio
 netCDF4
-networkx
 noise
 notebook
 notebook-shim
@@ -295,10 +279,6 @@ pyOpenSSL
 pyorbital
 pyparsing
 pyproj
-PyQt5
-PyQt5-sip
-PyQtChart
-PyQtWebEngine
 pyresample
 pyrsistent
 pyshp
@@ -320,7 +300,6 @@ pytz
 pytzdata
 pyu2f
 pyviz-comms
-PyWavelets
 PyYAML
 pyzmq
 rasterio
