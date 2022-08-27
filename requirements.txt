@@ -3,7 +3,7 @@ earthengine-api
 numpy==1.22.3
 scipy
 netCDF4
-GDAL
+geos
 h11
 h5py
 h5netcdf
