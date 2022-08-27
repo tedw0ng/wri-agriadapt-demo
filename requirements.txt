@@ -46,7 +46,6 @@ brotlipy
 cached-property
 cachetools
 cachey
-Cartopy
 cchardet
 certifi
 certipy
