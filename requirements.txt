@@ -1,5 +1,4 @@
 numpy
-GDAL
 adal
 adlfs
 affine
