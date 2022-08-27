@@ -1,7 +1,5 @@
 numpy
 geos
-libproj-dev
-libgeos-dev
 adal
 adlfs
 affine
