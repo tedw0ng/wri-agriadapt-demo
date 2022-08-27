@@ -406,7 +406,6 @@ xarray-sentinel
 xarray-spatial
 xarrayutils
 xclim
-xcube
 xesmf
 xgcm
 xhistogram
