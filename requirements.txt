@@ -405,7 +405,6 @@ xarray
 xarray-sentinel
 xarray-spatial
 xarrayutils
-xcape
 xclim
 xcube
 xesmf
