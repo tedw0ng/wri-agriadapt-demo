@@ -39,10 +39,6 @@ voila==0.3.5
 shapely
 tornado
 Fiona
-aiobotocore
-aiohttp
-aioitertools
-aiosignal
 cached-property
 cachetools
 cachey
