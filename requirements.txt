@@ -70,7 +70,7 @@ croniter==0.3.36
 cryptography==36.0.2
 cycler==0.11.0
 cytoolz==0.11.2
-dataclasses==0.8
+dataclasses==0.6
 datacube==1.8.6
 datashader==0.14.0
 datashape==0.5.4
