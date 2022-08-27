@@ -281,7 +281,6 @@ pycamhd
 pycparser
 PyCRS
 pyct
-pycurl
 pydantic
 pydap
 pyepsg
