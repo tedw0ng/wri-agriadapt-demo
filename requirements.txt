@@ -418,4 +418,3 @@ xyzservices
 yarl
 zarr
 zict
-zipp
