@@ -101,7 +101,6 @@ elementpath
 entrypoints
 eofs
 erddapy
-ESMPy
 executing
 fastapi
 fasteners
