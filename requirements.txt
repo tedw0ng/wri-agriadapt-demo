@@ -1,4 +1,5 @@
 numpy
+geos
 adal
 adlfs
 affine
